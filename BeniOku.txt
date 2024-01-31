@@ -1,0 +1,7 @@
+connectionString = "Host=127.0.0.1:8086;Username=postgres;Password=123456;Database=UnityDB;"; olacak şekilde Assets/Scripts/DatabaseManager.cs içerisinde 10. satırda tanımlanmıştır.
+
+Programı çalıştırmak için Program dosyası içerisindeki Database_Project.exe dosyasını çalıştırmalısınız.
+
+Assets klasörü içerisinde Scripts isimli dosyada .cs uzantılı c# kaynak kodları bulunmakta.
+
+Assets klasörü içerisinde Scenes içindeki dosyada SampleScene.unity dosyasına tıklayarak unity editöründe inceleme yapabilirsiniz.
